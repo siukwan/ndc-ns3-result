@@ -1,0 +1,1612 @@
+NR-NDN simulation begin at Fri Jan 22 22:07:53 2016
+(main.cc)兴趣包发送频率:0.1
+运行方法是：2
+Method: CDS-Simulation
+输出文件路径：/home/siukwan/input/CDS-Simulation/result.txt
+文件打开成功。
+读取完毕！
+节点size：53
+(main.cc)修改accidentNum为size的4倍212
+Creating 53 vehicle nodes.
+创建完毕
+正在安装mobility..
+Max time in fcdoutput.xml is 309
+正在读取总时间：
+总时间：310
+插入事件：212
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 147.997
+siu:24addAccident
+siu:24ScheduleAccident
+siu:24 add accident at 141.909
+siu:15addAccident
+siu:15ScheduleAccident
+siu:15 add accident at 135.227
+siu:25addAccident
+siu:25ScheduleAccident
+siu:25 add accident at 164.149
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 151.782
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 143.532
+siu:46addAccident
+siu:46ScheduleAccident
+siu:46 add accident at 149.146
+siu:3addAccident
+siu:3ScheduleAccident
+siu:3 add accident at 140.261
+siu:19addAccident
+siu:19ScheduleAccident
+siu:19 add accident at 103.078
+siu:9addAccident
+siu:9ScheduleAccident
+siu:9 add accident at 101.905
+siu:47addAccident
+siu:47ScheduleAccident
+siu:47 add accident at 143.59
+siu:20addAccident
+siu:20ScheduleAccident
+siu:20 add accident at 159.412
+siu:0addAccident
+siu:0ScheduleAccident
+siu:0 add accident at 32.145
+siu:51addAccident
+siu:51ScheduleAccident
+siu:51 add accident at 155.037
+siu:42addAccident
+siu:42ScheduleAccident
+siu:42 add accident at 138.484
+siu:30addAccident
+siu:30ScheduleAccident
+siu:30 add accident at 155.868
+siu:32addAccident
+siu:32ScheduleAccident
+siu:32 add accident at 142.634
+siu:36addAccident
+siu:36ScheduleAccident
+siu:36 add accident at 137.205
+siu:31addAccident
+siu:31ScheduleAccident
+siu:31 add accident at 146.762
+siu:32addAccident
+siu:32ScheduleAccident
+siu:32 add accident at 144.07
+siu:6addAccident
+siu:6ScheduleAccident
+siu:6 add accident at 33.239
+siu:10addAccident
+siu:10ScheduleAccident
+siu:10 add accident at 149.464
+siu:14addAccident
+siu:14ScheduleAccident
+siu:14 add accident at 141.457
+siu:14addAccident
+siu:14ScheduleAccident
+siu:14 add accident at 153.772
+siu:12addAccident
+siu:12ScheduleAccident
+siu:12 add accident at 133.406
+siu:3addAccident
+siu:3ScheduleAccident
+siu:3 add accident at 147.189
+siu:21addAccident
+siu:21ScheduleAccident
+siu:21 add accident at 143.795
+siu:22addAccident
+siu:22ScheduleAccident
+siu:22 add accident at 150.068
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 138.07
+siu:46addAccident
+siu:46ScheduleAccident
+siu:46 add accident at 149.381
+siu:2addAccident
+siu:2ScheduleAccident
+siu:2 add accident at 35.1363
+siu:41addAccident
+siu:41ScheduleAccident
+siu:41 add accident at 167.045
+siu:2addAccident
+siu:2ScheduleAccident
+siu:2 add accident at 30.7074
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 148.625
+siu:39addAccident
+siu:39ScheduleAccident
+siu:39 add accident at 108.214
+siu:38addAccident
+siu:38ScheduleAccident
+siu:38 add accident at 112.158
+siu:52addAccident
+siu:52ScheduleAccident
+siu:52 add accident at 177.288
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 160.451
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 156.483
+siu:31addAccident
+siu:31ScheduleAccident
+siu:31 add accident at 146.814
+siu:41addAccident
+siu:41ScheduleAccident
+siu:41 add accident at 151.941
+siu:51addAccident
+siu:51ScheduleAccident
+siu:51 add accident at 155.983
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 153.932
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 35.7285
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 133.005
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 33.5969
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 143.105
+siu:30addAccident
+siu:30ScheduleAccident
+siu:30 add accident at 158.811
+siu:31addAccident
+siu:31ScheduleAccident
+siu:31 add accident at 153.573
+siu:7addAccident
+siu:7ScheduleAccident
+siu:7 add accident at 28.9051
+siu:45addAccident
+siu:45ScheduleAccident
+siu:45 add accident at 173.873
+siu:27addAccident
+siu:27ScheduleAccident
+siu:27 add accident at 143.4
+siu:23addAccident
+siu:23ScheduleAccident
+siu:23 add accident at 155.915
+siu:32addAccident
+siu:32ScheduleAccident
+siu:32 add accident at 161.133
+siu:35addAccident
+siu:35ScheduleAccident
+siu:35 add accident at 157.512
+siu:28addAccident
+siu:28ScheduleAccident
+siu:28 add accident at 103.956
+siu:7addAccident
+siu:7ScheduleAccident
+siu:7 add accident at 42.284
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 141.791
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 115.816
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 147.886
+siu:38addAccident
+siu:38ScheduleAccident
+siu:38 add accident at 93.5226
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 154.251
+siu:25addAccident
+siu:25ScheduleAccident
+siu:25 add accident at 161.061
+siu:33addAccident
+siu:33ScheduleAccident
+siu:33 add accident at 152.89
+siu:18addAccident
+siu:18ScheduleAccident
+siu:18 add accident at 102.659
+siu:44addAccident
+siu:44ScheduleAccident
+siu:44 add accident at 159.893
+siu:39addAccident
+siu:39ScheduleAccident
+siu:39 add accident at 100.638
+siu:48addAccident
+siu:48ScheduleAccident
+siu:48 add accident at 105.148
+siu:34addAccident
+siu:34ScheduleAccident
+siu:34 add accident at 164.417
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 141.461
+siu:49addAccident
+siu:49ScheduleAccident
+siu:49 add accident at 91.783
+siu:32addAccident
+siu:32ScheduleAccident
+siu:32 add accident at 163.841
+siu:48addAccident
+siu:48ScheduleAccident
+siu:48 add accident at 94.4444
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 144.459
+siu:39addAccident
+siu:39ScheduleAccident
+siu:39 add accident at 98.3126
+siu:20addAccident
+siu:20ScheduleAccident
+siu:20 add accident at 142.977
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 94.2902
+siu:6addAccident
+siu:6ScheduleAccident
+siu:6 add accident at 33.4524
+siu:27addAccident
+siu:27ScheduleAccident
+siu:27 add accident at 139.95
+siu:47addAccident
+siu:47ScheduleAccident
+siu:47 add accident at 153.466
+siu:46addAccident
+siu:46ScheduleAccident
+siu:46 add accident at 149.306
+siu:38addAccident
+siu:38ScheduleAccident
+siu:38 add accident at 102.118
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 139.576
+siu:29addAccident
+siu:29ScheduleAccident
+siu:29 add accident at 96.9298
+siu:28addAccident
+siu:28ScheduleAccident
+siu:28 add accident at 101.102
+siu:6addAccident
+siu:6ScheduleAccident
+siu:6 add accident at 38.3212
+siu:20addAccident
+siu:20ScheduleAccident
+siu:20 add accident at 160.101
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 155.101
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 35.0367
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 36.576
+siu:17addAccident
+siu:17ScheduleAccident
+siu:17 add accident at 131.557
+siu:15addAccident
+siu:15ScheduleAccident
+siu:15 add accident at 144.47
+siu:5addAccident
+siu:5ScheduleAccident
+siu:5 add accident at 150.494
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 37.1342
+siu:14addAccident
+siu:14ScheduleAccident
+siu:14 add accident at 141.435
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 149.249
+siu:37addAccident
+siu:37ScheduleAccident
+siu:37 add accident at 145.602
+siu:3addAccident
+siu:3ScheduleAccident
+siu:3 add accident at 154.222
+siu:2addAccident
+siu:2ScheduleAccident
+siu:2 add accident at 38.0227
+siu:12addAccident
+siu:12ScheduleAccident
+siu:12 add accident at 133.37
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 26.6089
+siu:28addAccident
+siu:28ScheduleAccident
+siu:28 add accident at 110.658
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 155.983
+siu:2addAccident
+siu:2ScheduleAccident
+siu:2 add accident at 31.1493
+siu:47addAccident
+siu:47ScheduleAccident
+siu:47 add accident at 151.323
+siu:51addAccident
+siu:51ScheduleAccident
+siu:51 add accident at 146.764
+siu:43addAccident
+siu:43ScheduleAccident
+siu:43 add accident at 168.438
+siu:38addAccident
+siu:38ScheduleAccident
+siu:38 add accident at 103.571
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 150.065
+siu:15addAccident
+siu:15ScheduleAccident
+siu:15 add accident at 149.984
+siu:0addAccident
+siu:0ScheduleAccident
+siu:0 add accident at 32.9808
+siu:41addAccident
+siu:41ScheduleAccident
+siu:41 add accident at 160.587
+siu:37addAccident
+siu:37ScheduleAccident
+siu:37 add accident at 141.405
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 139.294
+siu:5addAccident
+siu:5ScheduleAccident
+siu:5 add accident at 169.826
+siu:5addAccident
+siu:5ScheduleAccident
+siu:5 add accident at 140.145
+siu:27addAccident
+siu:27ScheduleAccident
+siu:27 add accident at 130.59
+siu:21addAccident
+siu:21ScheduleAccident
+siu:21 add accident at 149.011
+siu:36addAccident
+siu:36ScheduleAccident
+siu:36 add accident at 145.415
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 37.1229
+siu:23addAccident
+siu:23ScheduleAccident
+siu:23 add accident at 155.155
+siu:43addAccident
+siu:43ScheduleAccident
+siu:43 add accident at 148.739
+siu:9addAccident
+siu:9ScheduleAccident
+siu:9 add accident at 107.567
+siu:33addAccident
+siu:33ScheduleAccident
+siu:33 add accident at 149.558
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 33.6317
+siu:52addAccident
+siu:52ScheduleAccident
+siu:52 add accident at 158.381
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 29.0734
+siu:9addAccident
+siu:9ScheduleAccident
+siu:9 add accident at 104.698
+siu:17addAccident
+siu:17ScheduleAccident
+siu:17 add accident at 135.821
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 163.266
+siu:19addAccident
+siu:19ScheduleAccident
+siu:19 add accident at 95.4751
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 32.9055
+siu:49addAccident
+siu:49ScheduleAccident
+siu:49 add accident at 111.248
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 150.542
+siu:45addAccident
+siu:45ScheduleAccident
+siu:45 add accident at 156.287
+siu:37addAccident
+siu:37ScheduleAccident
+siu:37 add accident at 154.724
+siu:25addAccident
+siu:25ScheduleAccident
+siu:25 add accident at 138.666
+siu:48addAccident
+siu:48ScheduleAccident
+siu:48 add accident at 111.835
+siu:22addAccident
+siu:22ScheduleAccident
+siu:22 add accident at 136.269
+siu:45addAccident
+siu:45ScheduleAccident
+siu:45 add accident at 159.714
+siu:35addAccident
+siu:35ScheduleAccident
+siu:35 add accident at 159.23
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 150.154
+siu:21addAccident
+siu:21ScheduleAccident
+siu:21 add accident at 137.965
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 156.741
+siu:22addAccident
+siu:22ScheduleAccident
+siu:22 add accident at 129.089
+siu:15addAccident
+siu:15ScheduleAccident
+siu:15 add accident at 127.659
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 153.707
+siu:39addAccident
+siu:39ScheduleAccident
+siu:39 add accident at 92.0981
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 129.618
+siu:46addAccident
+siu:46ScheduleAccident
+siu:46 add accident at 145.607
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 168.597
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 94.1505
+siu:22addAccident
+siu:22ScheduleAccident
+siu:22 add accident at 144.796
+siu:29addAccident
+siu:29ScheduleAccident
+siu:29 add accident at 103.597
+siu:27addAccident
+siu:27ScheduleAccident
+siu:27 add accident at 145.435
+siu:7addAccident
+siu:7ScheduleAccident
+siu:7 add accident at 33.1946
+siu:41addAccident
+siu:41ScheduleAccident
+siu:41 add accident at 152.395
+siu:24addAccident
+siu:24ScheduleAccident
+siu:24 add accident at 170.607
+siu:32addAccident
+siu:32ScheduleAccident
+siu:32 add accident at 151.319
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 30.3835
+siu:28addAccident
+siu:28ScheduleAccident
+siu:28 add accident at 103.779
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 98.5765
+siu:25addAccident
+siu:25ScheduleAccident
+siu:25 add accident at 145.595
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 101.338
+siu:42addAccident
+siu:42ScheduleAccident
+siu:42 add accident at 160.152
+siu:42addAccident
+siu:42ScheduleAccident
+siu:42 add accident at 163.259
+siu:28addAccident
+siu:28ScheduleAccident
+siu:28 add accident at 105.657
+siu:19addAccident
+siu:19ScheduleAccident
+siu:19 add accident at 97.3994
+siu:21addAccident
+siu:21ScheduleAccident
+siu:21 add accident at 132.883
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 39.1754
+siu:18addAccident
+siu:18ScheduleAccident
+siu:18 add accident at 111.272
+siu:17addAccident
+siu:17ScheduleAccident
+siu:17 add accident at 142.211
+siu:45addAccident
+siu:45ScheduleAccident
+siu:45 add accident at 144.152
+siu:30addAccident
+siu:30ScheduleAccident
+siu:30 add accident at 155.208
+siu:21addAccident
+siu:21ScheduleAccident
+siu:21 add accident at 148.303
+siu:37addAccident
+siu:37ScheduleAccident
+siu:37 add accident at 134.233
+siu:25addAccident
+siu:25ScheduleAccident
+siu:25 add accident at 156.513
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 154.329
+siu:44addAccident
+siu:44ScheduleAccident
+siu:44 add accident at 180.004
+siu:20addAccident
+siu:20ScheduleAccident
+siu:20 add accident at 148.83
+siu:1addAccident
+siu:1ScheduleAccident
+siu:1 add accident at 37.837
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 163.238
+siu:4addAccident
+siu:4ScheduleAccident
+siu:4 add accident at 34.6671
+siu:10addAccident
+siu:10ScheduleAccident
+siu:10 add accident at 133.415
+siu:24addAccident
+siu:24ScheduleAccident
+siu:24 add accident at 159.111
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 147.374
+siu:38addAccident
+siu:38ScheduleAccident
+siu:38 add accident at 94.5831
+siu:37addAccident
+siu:37ScheduleAccident
+siu:37 add accident at 156.266
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 151.077
+siu:17addAccident
+siu:17ScheduleAccident
+siu:17 add accident at 137.077
+siu:36addAccident
+siu:36ScheduleAccident
+siu:36 add accident at 144.287
+siu:40addAccident
+siu:40ScheduleAccident
+siu:40 add accident at 170.745
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 134.312
+siu:52addAccident
+siu:52ScheduleAccident
+siu:52 add accident at 174.153
+siu:15addAccident
+siu:15ScheduleAccident
+siu:15 add accident at 142.113
+siu:46addAccident
+siu:46ScheduleAccident
+siu:46 add accident at 146.003
+siu:35addAccident
+siu:35ScheduleAccident
+siu:35 add accident at 155.216
+siu:5addAccident
+siu:5ScheduleAccident
+siu:5 add accident at 153.556
+siu:26addAccident
+siu:26ScheduleAccident
+siu:26 add accident at 146.819
+siu:11addAccident
+siu:11ScheduleAccident
+siu:11 add accident at 151.178
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 151.396
+siu:12addAccident
+siu:12ScheduleAccident
+siu:12 add accident at 149.253
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 135.513
+siu:8addAccident
+siu:8ScheduleAccident
+siu:8 add accident at 96.3265
+siu:45addAccident
+siu:45ScheduleAccident
+siu:45 add accident at 158.301
+siu:16addAccident
+siu:16ScheduleAccident
+siu:16 add accident at 151.054
+siu:50addAccident
+siu:50ScheduleAccident
+siu:50 add accident at 147.452
+siu:47addAccident
+siu:47ScheduleAccident
+siu:47 add accident at 157.459
+siu:35addAccident
+siu:35ScheduleAccident
+siu:35 add accident at 146.587
+siu:29addAccident
+siu:29ScheduleAccident
+siu:29 add accident at 108.477
+siu:14addAccident
+siu:14ScheduleAccident
+siu:14 add accident at 152.677
+siu:24addAccident
+siu:24ScheduleAccident
+siu:24 add accident at 153.161
+插入事件：完毕
+Starting simulation for 310 s ...
+
+(main.cc) Time now: 0
+siu:StartApplication: 0
+siu:StartApplication: 1
+siu:StartApplication: 2
+siu:StartApplication: 3
+siu:StartApplication: 4
+siu:StartApplication: 5
+siu:StartApplication: 6
+siu:StartApplication: 7
+siu:StartApplication: 8
+siu:StartApplication: 9
+siu:StartApplication: 13
+siu:StartApplication: 14
+siu:StartApplication: 16
+siu:StartApplication: 17
+siu:StartApplication: 18
+siu:StartApplication: 19
+siu:StartApplication: 28
+siu:StartApplication: 29
+siu:StartApplication: 38
+siu:StartApplication: 39
+
+(main.cc) Time now: 1
+
+(main.cc) Time now: 2
+siu:StartApplication: 10
+siu:StartApplication: 11
+siu:StartApplication: 12
+siu:StartApplication: 15
+siu:StartApplication: 22
+siu:StartApplication: 23
+siu:StartApplication: 24
+siu:StartApplication: 26
+siu:StartApplication: 27
+siu:StartApplication: 48
+siu:StartApplication: 49
+
+(main.cc) Time now: 3
+
+(main.cc) Time now: 4
+
+(main.cc) Time now: 5
+siu:StartApplication: 20
+siu:StartApplication: 21
+siu:StartApplication: 25
+siu:StartApplication: 32
+siu:StartApplication: 33
+siu:StartApplication: 34
+siu:StartApplication: 36
+siu:StartApplication: 37
+siu:StartApplication: 42
+
+(main.cc) Time now: 6
+
+(main.cc) Time now: 7
+siu:StartApplication: 35
+
+(main.cc) Time now: 8
+siu:StartApplication: 30
+siu:StartApplication: 31
+siu:StartApplication: 43
+siu:StartApplication: 44
+siu:StartApplication: 46
+siu:StartApplication: 47
+
+(main.cc) Time now: 9
+
+(main.cc) Time now: 10
+
+(main.cc) Time now: 11
+siu:StartApplication: 40
+siu:StartApplication: 41
+siu:StartApplication: 45
+siu:StartApplication: 51
+siu:StartApplication: 52
+
+(main.cc) Time now: 12
+
+(main.cc) Time now: 13
+
+(main.cc) Time now: 14
+siu:StartApplication: 50
+
+(main.cc) Time now: 15
+
+(main.cc) Time now: 16
+
+(main.cc) Time now: 17
+
+(main.cc) Time now: 18
+
+(main.cc) Time now: 19
+
+(main.cc) Time now: 20
+
+(main.cc) Time now: 21
+
+(main.cc) Time now: 22
+
+(main.cc) Time now: 23
+
+(main.cc) Time now: 24
+
+(main.cc) Time now: 25
+
+(main.cc) Time now: 26
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:1947439664
+
+(main.cc) Time now: 27
+
+(main.cc) Time now: 28
+siu:node(7)	 sending Traffic Data: /3-2to2-2 	signature:2218473186
+
+(main.cc) Time now: 29
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:2973904989
+
+(main.cc) Time now: 30
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:1839134364
+siu:node(2)	 sending Traffic Data: /0-2to1-2 	signature:3165490385
+
+(main.cc) Time now: 31
+siu:node(2)	 sending Traffic Data: /0-2to1-2 	signature:2213951735
+
+(main.cc) Time now: 32
+siu:node(0)	 sending Traffic Data: /0-2to1-2 	signature:3885692978
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:2456272580
+siu:node(0)	 sending Traffic Data: /0-2to1-2 	signature:1991873898
+
+(main.cc) Time now: 33
+siu:node(7)	 sending Traffic Data: /3-2to2-2 	signature:2326704816
+siu:node(6)	 sending Traffic Data: /3-1to2-1 	signature:1046955713
+siu:node(6)	 sending Traffic Data: /3-1to2-1 	signature:3082796594
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:4198207518
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:2493796545
+
+(main.cc) Time now: 34
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:2371063160
+
+(main.cc) Time now: 35
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:1384124261
+siu:node(2)	 sending Traffic Data: /0-2to1-2 	signature:3808385594
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:436494472
+
+(main.cc) Time now: 36
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:926177585
+
+(main.cc) Time now: 37
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:46591673
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:311151046
+siu:node(1)	 sending Traffic Data: /0-2to1-2 	signature:3226586569
+
+(main.cc) Time now: 38
+siu:node(2)	 sending Traffic Data: /0-2to1-2 	signature:576372234
+siu:node(6)	 sending Traffic Data: /3-1to2-1 	signature:878736970
+
+(main.cc) Time now: 39
+siu:node(4)	 sending Traffic Data: /0-2to1-2 	signature:4293182877
+
+(main.cc) Time now: 40
+
+(main.cc) Time now: 41
+
+(main.cc) Time now: 42
+siu:node(7)	 sending Traffic Data: /3-2to2-2 	signature:3043974578
+
+(main.cc) Time now: 43
+
+(main.cc) Time now: 44
+
+(main.cc) Time now: 45
+
+(main.cc) Time now: 46
+
+(main.cc) Time now: 47
+
+(main.cc) Time now: 48
+
+(main.cc) Time now: 49
+
+(main.cc) Time now: 50
+
+(main.cc) Time now: 51
+
+(main.cc) Time now: 52
+
+(main.cc) Time now: 53
+
+(main.cc) Time now: 54
+
+(main.cc) Time now: 55
+
+(main.cc) Time now: 56
+
+(main.cc) Time now: 57
+
+(main.cc) Time now: 58
+
+(main.cc) Time now: 59
+
+(main.cc) Time now: 60
+
+(main.cc) Time now: 61
+
+(main.cc) Time now: 62
+
+(main.cc) Time now: 63
+
+(main.cc) Time now: 64
+
+(main.cc) Time now: 65
+
+(main.cc) Time now: 66
+
+(main.cc) Time now: 67
+
+(main.cc) Time now: 68
+siu:Stop: 1
+
+(main.cc) Time now: 69
+siu:Stop: 0
+siu:Stop: 2
+siu:Stop: 4
+siu:Stop: 6
+siu:Stop: 7
+
+(main.cc) Time now: 70
+
+(main.cc) Time now: 71
+
+(main.cc) Time now: 72
+
+(main.cc) Time now: 73
+
+(main.cc) Time now: 74
+
+(main.cc) Time now: 75
+
+(main.cc) Time now: 76
+
+(main.cc) Time now: 77
+
+(main.cc) Time now: 78
+
+(main.cc) Time now: 79
+
+(main.cc) Time now: 80
+
+(main.cc) Time now: 81
+
+(main.cc) Time now: 82
+
+(main.cc) Time now: 83
+
+(main.cc) Time now: 84
+
+(main.cc) Time now: 85
+
+(main.cc) Time now: 86
+
+(main.cc) Time now: 87
+
+(main.cc) Time now: 88
+
+(main.cc) Time now: 89
+
+(main.cc) Time now: 90
+
+(main.cc) Time now: 91
+siu:node(49)	 sending Traffic Data: /1-2to1-1 	signature:2534559076
+
+(main.cc) Time now: 92
+siu:node(39)	 sending Traffic Data: /1-2to1-1 	signature:3049025488
+
+(main.cc) Time now: 93
+siu:node(38)	 sending Traffic Data: /1-1to1-2 	signature:1139790390
+
+(main.cc) Time now: 94
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:3964591767
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:1265017694
+siu:node(48)	 sending Traffic Data: /1-1to1-2 	signature:829593560
+siu:node(38)	 sending Traffic Data: /1-1to1-2 	signature:2437445975
+
+(main.cc) Time now: 95
+siu:node(19)	 sending Traffic Data: /1-2to1-1 	signature:2619748388
+
+(main.cc) Time now: 96
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:512528249
+siu:node(29)	 sending Traffic Data: /1-2to1-1 	signature:3082095964
+
+(main.cc) Time now: 97
+siu:node(19)	 sending Traffic Data: /1-2to1-1 	signature:1977563206
+
+(main.cc) Time now: 98
+siu:node(39)	 sending Traffic Data: /1-2to1-1 	signature:2721667195
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:3655882096
+
+(main.cc) Time now: 99
+
+(main.cc) Time now: 100
+siu:node(39)	 sending Traffic Data: /1-2to1-1 	signature:3955548256
+
+(main.cc) Time now: 101
+siu:node(28)	 sending Traffic Data: /1-1to1-2 	signature:2265066980
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:2098062839
+siu:node(9)	 sending Traffic Data: /1-2to1-1 	signature:4195577343
+
+(main.cc) Time now: 102
+siu:node(38)	 sending Traffic Data: /1-1to1-2 	signature:2759007333
+siu:node(18)	 sending Traffic Data: /1-1to1-2 	signature:3993189342
+
+(main.cc) Time now: 103
+siu:node(19)	 sending Traffic Data: /1-2to1-1 	signature:3707371166
+siu:node(38)	 sending Traffic Data: /1-1to1-2 	signature:3512767786
+siu:node(29)	 sending Traffic Data: /1-2to1-1 	signature:787724457
+siu:node(28)	 sending Traffic Data: /1-1to1-2 	signature:3282715436
+siu:node(28)	 sending Traffic Data: /1-1to1-2 	signature:338408439
+
+(main.cc) Time now: 104
+siu:node(9)	 sending Traffic Data: /1-2to1-1 	signature:2997303924
+
+(main.cc) Time now: 105
+siu:node(48)	 sending Traffic Data: /1-1to1-2 	signature:404637536
+siu:node(28)	 sending Traffic Data: /1-1to1-2 	signature:129525539
+
+(main.cc) Time now: 106
+
+(main.cc) Time now: 107
+siu:node(9)	 sending Traffic Data: /1-2to1-1 	signature:795615399
+
+(main.cc) Time now: 108
+siu:node(39)	 sending Traffic Data: /1-2to1-1 	signature:1642698165
+siu:node(29)	 sending Traffic Data: /1-2to1-1 	signature:2048822882
+
+(main.cc) Time now: 109
+
+(main.cc) Time now: 110
+siu:node(28)	 sending Traffic Data: /1-1to1-2 	signature:4184664720
+
+(main.cc) Time now: 111
+siu:node(49)	 sending Traffic Data: /1-2to1-1 	signature:2813541572
+siu:node(18)	 sending Traffic Data: /1-1to1-2 	signature:2121658338
+siu:node(48)	 sending Traffic Data: /1-1to1-2 	signature:503552982
+
+(main.cc) Time now: 112
+siu:node(38)	 sending Traffic Data: /1-1to1-2 	signature:1306773964
+
+(main.cc) Time now: 113
+
+(main.cc) Time now: 114
+
+(main.cc) Time now: 115
+siu:node(8)	 sending Traffic Data: /1-1to1-2 	signature:3648577183
+
+(main.cc) Time now: 116
+
+(main.cc) Time now: 117
+
+(main.cc) Time now: 118
+
+(main.cc) Time now: 119
+
+(main.cc) Time now: 120
+
+(main.cc) Time now: 121
+
+(main.cc) Time now: 122
+
+(main.cc) Time now: 123
+
+(main.cc) Time now: 124
+
+(main.cc) Time now: 125
+
+(main.cc) Time now: 126
+
+(main.cc) Time now: 127
+siu:node(15)	 sending Traffic Data: /3-1to2-1 	signature:2883038501
+
+(main.cc) Time now: 128
+
+(main.cc) Time now: 129
+siu:node(22)	 sending Traffic Data: /1-2to1-1 	signature:2536511522
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:3805910040
+
+(main.cc) Time now: 130
+siu:node(27)	 sending Traffic Data: /2-2to1-2 	signature:660577087
+
+(main.cc) Time now: 131
+siu:node(17)	 sending Traffic Data: /2-2to1-2 	signature:3976367726
+
+(main.cc) Time now: 132
+siu:node(21)	 sending Traffic Data: /1-1to2-1 	signature:915767441
+
+(main.cc) Time now: 133
+siu:node(11)	 sending Traffic Data: /1-1to2-1 	signature:2806165541
+siu:node(12)	 sending Traffic Data: /1-2to1-1 	signature:3771496537
+siu:node(12)	 sending Traffic Data: /1-2to1-1 	signature:1963955684
+siu:node(10)	 sending Traffic Data: /1-2to2-2 	signature:1440662759
+
+(main.cc) Time now: 134
+siu:node(37)	 sending Traffic Data: /2-2to1-2 	signature:187729735
+siu:node(26)	 sending Traffic Data: /2-1to1-1 	signature:3930330146
+
+(main.cc) Time now: 135
+siu:node(15)	 sending Traffic Data: /3-1to2-1 	signature:3888424568
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:1825190488
+siu:node(17)	 sending Traffic Data: /2-2to1-2 	signature:3768313659
+
+(main.cc) Time now: 136
+siu:node(22)	 sending Traffic Data: /1-2to1-1 	signature:57489166
+
+(main.cc) Time now: 137
+siu:node(17)	 sending Traffic Data: /2-2to1-2 	signature:1226788141
+siu:node(36)	 sending Traffic Data: /2-1to1-1 	signature:3782813083
+siu:node(21)	 sending Traffic Data: /1-1to2-1 	signature:682435642
+
+(main.cc) Time now: 138
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:2318603379
+siu:node(42)	 sending Traffic Data: /1-2to1-1 	signature:291152658
+siu:node(25)	 sending Traffic Data: /3-1to2-1 	signature:2725246956
+
+(main.cc) Time now: 139
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:39504685
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:2887168138
+siu:node(27)	 sending Traffic Data: /2-2to1-2 	signature:3905270832
+
+(main.cc) Time now: 140
+siu:node(5)	 sending Traffic Data: /2-1to1-1 	signature:2410759014
+siu:node(3)	 sending Traffic Data: /1-1to1-2 	signature:1074866096
+
+(main.cc) Time now: 141
+siu:node(37)	 sending Traffic Data: /2-2to1-2 	signature:2040126033
+siu:node(14)	 sending Traffic Data: /3-2to2-2 	signature:2993360144
+siu:node(14)	 sending Traffic Data: /3-2to2-2 	signature:2813836693
+siu:node(11)	 sending Traffic Data: /1-1to2-1 	signature:3317871414
+siu:node(16)	 sending Traffic Data: /2-1to1-1 	signature:3284854506
+siu:node(24)	 sending Traffic Data: /3-2to2-2 	signature:4215984063
+
+(main.cc) Time now: 142
+siu:node(15)	 sending Traffic Data: /3-1to2-1 	signature:2967335145
+siu:node(17)	 sending Traffic Data: /2-2to1-2 	signature:447862473
+siu:node(32)	 sending Traffic Data: /1-2to1-1 	signature:1603148982
+siu:node(20)	 sending Traffic Data: /1-2to2-2 	signature:3828171447
+
+(main.cc) Time now: 143
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:4136233317
+siu:node(27)	 sending Traffic Data: /2-2to1-2 	signature:2517778520
+siu:node(16)	 sending Traffic Data: /1-1to1-2 	signature:1537863447
+siu:node(47)	 sending Traffic Data: /2-2to1-2 	signature:3063410216
+siu:node(21)	 sending Traffic Data: /1-1to2-1 	signature:1210148358
+
+(main.cc) Time now: 144
+siu:node(32)	 sending Traffic Data: /1-2to1-1 	signature:4289499321
+siu:node(45)	 sending Traffic Data: /3-1to2-1 	signature:2441617841
+siu:node(36)	 sending Traffic Data: /2-1to1-1 	signature:3916142069
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:2278342181
+siu:node(15)	 sending Traffic Data: /2-1to1-1 	signature:427048716
+siu:node(22)	 sending Traffic Data: /1-2to1-1 	signature:833166291
+
+(main.cc) Time now: 145
+siu:node(36)	 sending Traffic Data: /2-1to1-1 	signature:894330095
+siu:node(27)	 sending Traffic Data: /2-2to1-2 	signature:847581001
+siu:node(25)	 sending Traffic Data: /3-1to2-1 	signature:792195417
+siu:node(37)	 sending Traffic Data: /2-2to1-2 	signature:3700582750
+siu:node(46)	 sending Traffic Data: /2-1to1-1 	signature:4193840658
+
+(main.cc) Time now: 146
+siu:node(46)	 sending Traffic Data: /2-1to1-1 	signature:1084943383
+siu:node(35)	 sending Traffic Data: /3-1to2-1 	signature:1067231432
+siu:node(31)	 sending Traffic Data: /1-1to2-1 	signature:180023825
+siu:node(51)	 sending Traffic Data: /2-2to1-2 	signature:1918141737
+siu:node(31)	 sending Traffic Data: /1-1to2-1 	signature:3972272397
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:490630111
+
+(main.cc) Time now: 147
+siu:node(3)	 sending Traffic Data: /1-1to1-2 	signature:1728044597
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:3782007725
+siu:node(50)	 sending Traffic Data: /1-2to2-2 	signature:30224256
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:524581533
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:3540539633
+
+(main.cc) Time now: 148
+siu:node(21)	 sending Traffic Data: /1-1to2-1 	signature:1991763803
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:1933522238
+siu:node(43)	 sending Traffic Data: /1-1to1-2 	signature:3662414761
+siu:node(20)	 sending Traffic Data: /1-2to2-2 	signature:2809840017
+
+(main.cc) Time now: 149
+siu:node(21)	 sending Traffic Data: /1-1to2-1 	signature:2674901624
+siu:node(46)	 sending Traffic Data: /2-1to1-1 	signature:641837424
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:2621073982
+siu:node(12)	 sending Traffic Data: /1-1to2-1 	signature:3679241646
+siu:node(46)	 sending Traffic Data: /2-1to1-1 	signature:3946491056
+siu:node(46)	 sending Traffic Data: /2-1to1-1 	signature:68622596
+siu:node(10)	 sending Traffic Data: /2-2to3-2 	signature:1643255798
+siu:node(33)	 sending Traffic Data: /1-2to2-2 	signature:687311302
+siu:node(15)	 sending Traffic Data: /2-1to1-1 	signature:2962337488
+
+(main.cc) Time now: 150
+siu:node(16)	 sending Traffic Data: /1-1to1-2 	signature:2884214535
+siu:node(22)	 sending Traffic Data: /1-1to2-1 	signature:3608130835
+siu:node(11)	 sending Traffic Data: /1-1to2-1 	signature:4216634769
+siu:node(5)	 sending Traffic Data: /2-1to1-1 	signature:1902193191
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:4258833344
+
+(main.cc) Time now: 151
+siu:node(16)	 sending Traffic Data: /1-1to1-2 	signature:3055354666
+siu:node(50)	 sending Traffic Data: /1-2to2-2 	signature:358206904
+siu:node(11)	 sending Traffic Data: /2-1to3-1 	signature:2721761152
+siu:node(32)	 sending Traffic Data: /1-2to1-1 	signature:3835063859
+siu:node(47)	 sending Traffic Data: /2-2to1-2 	signature:3877519857
+siu:node(16)	 sending Traffic Data: /1-1to1-2 	signature:2051567657
+siu:node(26)	 sending Traffic Data: /1-1to1-2 	signature:458408484
+siu:node(41)	 sending Traffic Data: /1-1to2-1 	signature:371142491
+
+(main.cc) Time now: 152
+siu:node(41)	 sending Traffic Data: /1-1to2-1 	signature:2824643767
+siu:node(14)	 sending Traffic Data: /2-2to1-2 	signature:1593125042
+siu:node(33)	 sending Traffic Data: /1-2to2-2 	signature:263596493
+
+(main.cc) Time now: 153
+siu:node(24)	 sending Traffic Data: /2-2to1-2 	signature:3761948811
+siu:node(47)	 sending Traffic Data: /2-2to1-2 	signature:4037522021
+siu:node(5)	 sending Traffic Data: /2-1to1-1 	signature:2550483968
+siu:node(31)	 sending Traffic Data: /1-1to2-1 	signature:2451065279
+siu:node(50)	 sending Traffic Data: /1-2to2-2 	signature:1649594548
+siu:node(14)	 sending Traffic Data: /2-2to1-2 	signature:3274659295
+siu:node(11)	 sending Traffic Data: /2-1to3-1 	signature:177386700
+
+(main.cc) Time now: 154
+siu:node(3)	 sending Traffic Data: /1-2to2-2 	signature:346136390
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:1274755144
+siu:node(11)	 sending Traffic Data: /2-1to3-1 	signature:1885578305
+siu:node(37)	 sending Traffic Data: /1-2to1-1 	signature:3041565162
+
+(main.cc) Time now: 155
+siu:node(51)	 sending Traffic Data: /2-2to1-2 	signature:3151314907
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:3318205004
+siu:node(23)	 sending Traffic Data: /1-2to2-2 	signature:3842654917
+siu:node(30)	 sending Traffic Data: /2-2to3-2 	signature:4072665548
+siu:node(35)	 sending Traffic Data: /2-1to1-1 	signature:2606981915
+siu:node(30)	 sending Traffic Data: /2-2to3-2 	signature:12401867
+siu:node(23)	 sending Traffic Data: /1-2to2-2 	signature:1687317285
+siu:node(51)	 sending Traffic Data: /2-2to1-2 	signature:2491338830
+siu:node(40)	 sending Traffic Data: /1-2to2-2 	signature:3226960597
+
+(main.cc) Time now: 156
+siu:node(37)	 sending Traffic Data: /1-2to1-1 	signature:4013698811
+siu:node(45)	 sending Traffic Data: /2-1to1-1 	signature:3464624386
+siu:node(16)	 sending Traffic Data: /1-1to1-2 	signature:3004887353
+siu:node(25)	 sending Traffic Data: /2-1to1-1 	signature:2564813733
+siu:node(40)	 sending Traffic Data: /2-2to3-2 	signature:1692168881
+
+(main.cc) Time now: 157
+siu:node(47)	 sending Traffic Data: /1-2to1-1 	signature:181172214
+siu:node(35)	 sending Traffic Data: /2-1to1-1 	signature:3817271439
+
+(main.cc) Time now: 158
+siu:node(45)	 sending Traffic Data: /2-1to1-1 	signature:3613955403
+siu:node(52)	 sending Traffic Data: /2-2to1-2 	signature:1508000449
+siu:node(30)	 sending Traffic Data: /2-2to3-2 	signature:3379385404
+
+(main.cc) Time now: 159
+siu:node(24)	 sending Traffic Data: /2-2to1-2 	signature:2445294345
+siu:node(35)	 sending Traffic Data: /2-1to1-1 	signature:2959733615
+siu:node(20)	 sending Traffic Data: /2-2to3-2 	signature:1998142210
+siu:node(45)	 sending Traffic Data: /2-1to1-1 	signature:787217774
+siu:node(44)	 sending Traffic Data: /2-2to1-2 	signature:2725997555
+
+(main.cc) Time now: 160
+siu:node(20)	 sending Traffic Data: /2-2to3-2 	signature:3943448225
+siu:node(42)	 sending Traffic Data: /1-1to2-1 	signature:2922959239
+siu:node(40)	 sending Traffic Data: /2-2to3-2 	signature:331666098
+siu:node(41)	 sending Traffic Data: /1-1to2-1 	signature:2853640931
+
+(main.cc) Time now: 161
+siu:node(25)	 sending Traffic Data: /2-1to1-1 	signature:830121252
+siu:node(32)	 sending Traffic Data: /1-1to2-1 	signature:2795705104
+
+(main.cc) Time now: 162
+
+(main.cc) Time now: 163
+siu:node(50)	 sending Traffic Data: /2-2to3-2 	signature:3313013198
+siu:node(42)	 sending Traffic Data: /1-1to2-1 	signature:2315881433
+siu:node(50)	 sending Traffic Data: /2-2to3-2 	signature:2826986656
+siu:node(32)	 sending Traffic Data: /1-1to2-1 	signature:2651337526
+
+(main.cc) Time now: 164
+siu:node(25)	 sending Traffic Data: /2-1to1-1 	signature:3916930390
+siu:node(34)	 sending Traffic Data: /2-2to1-2 	signature:3759467480
+
+(main.cc) Time now: 165
+
+(main.cc) Time now: 166
+
+(main.cc) Time now: 167
+siu:node(41)	 sending Traffic Data: /2-1to3-1 	signature:3074620379
+
+(main.cc) Time now: 168
+siu:node(43)	 sending Traffic Data: /1-2to2-2 	signature:617619052
+siu:node(50)	 sending Traffic Data: /2-2to3-2 	signature:2171018273
+
+(main.cc) Time now: 169
+siu:node(5)	 sending Traffic Data: /2-1to1-1 	signature:2038273224
+
+(main.cc) Time now: 170
+siu:node(24)	 sending Traffic Data: /2-2to1-2 	signature:53758775
+siu:node(40)	 sending Traffic Data: /2-2to3-2 	signature:789474667
+
+(main.cc) Time now: 171
+
+(main.cc) Time now: 172
+
+(main.cc) Time now: 173
+siu:node(45)	 sending Traffic Data: /2-1to1-1 	signature:979131077
+
+(main.cc) Time now: 174
+siu:node(52)	 sending Traffic Data: /2-2to1-2 	signature:2700397608
+
+(main.cc) Time now: 175
+
+(main.cc) Time now: 176
+
+(main.cc) Time now: 177
+siu:node(52)	 sending Traffic Data: /2-2to1-2 	signature:2773799851
+
+(main.cc) Time now: 178
+
+(main.cc) Time now: 179
+
+(main.cc) Time now: 180
+siu:node(44)	 sending Traffic Data: /2-2to1-2 	signature:4164973888
+
+(main.cc) Time now: 181
+
+(main.cc) Time now: 182
+
+(main.cc) Time now: 183
+
+(main.cc) Time now: 184
+
+(main.cc) Time now: 185
+
+(main.cc) Time now: 186
+
+(main.cc) Time now: 187
+
+(main.cc) Time now: 188
+
+(main.cc) Time now: 189
+
+(main.cc) Time now: 190
+
+(main.cc) Time now: 191
+
+(main.cc) Time now: 192
+
+(main.cc) Time now: 193
+
+(main.cc) Time now: 194
+
+(main.cc) Time now: 195
+
+(main.cc) Time now: 196
+
+(main.cc) Time now: 197
+
+(main.cc) Time now: 198
+
+(main.cc) Time now: 199
+
+(main.cc) Time now: 200
+
+(main.cc) Time now: 201
+
+(main.cc) Time now: 202
+
+(main.cc) Time now: 203
+
+(main.cc) Time now: 204
+siu:Stop: 8
+siu:Stop: 9
+siu:Stop: 19
+siu:Stop: 28
+siu:Stop: 29
+siu:Stop: 38
+siu:Stop: 39
+
+(main.cc) Time now: 205
+siu:Stop: 18
+
+(main.cc) Time now: 206
+
+(main.cc) Time now: 207
+
+(main.cc) Time now: 208
+siu:Stop: 48
+siu:Stop: 49
+
+(main.cc) Time now: 209
+
+(main.cc) Time now: 210
+
+(main.cc) Time now: 211
+
+(main.cc) Time now: 212
+
+(main.cc) Time now: 213
+
+(main.cc) Time now: 214
+
+(main.cc) Time now: 215
+
+(main.cc) Time now: 216
+
+(main.cc) Time now: 217
+
+(main.cc) Time now: 218
+
+(main.cc) Time now: 219
+
+(main.cc) Time now: 220
+
+(main.cc) Time now: 221
+
+(main.cc) Time now: 222
+
+(main.cc) Time now: 223
+
+(main.cc) Time now: 224
+
+(main.cc) Time now: 225
+
+(main.cc) Time now: 226
+
+(main.cc) Time now: 227
+
+(main.cc) Time now: 228
+
+(main.cc) Time now: 229
+
+(main.cc) Time now: 230
+
+(main.cc) Time now: 231
+
+(main.cc) Time now: 232
+
+(main.cc) Time now: 233
+
+(main.cc) Time now: 234
+
+(main.cc) Time now: 235
+
+(main.cc) Time now: 236
+
+(main.cc) Time now: 237
+
+(main.cc) Time now: 238
+
+(main.cc) Time now: 239
+
+(main.cc) Time now: 240
+
+(main.cc) Time now: 241
+
+(main.cc) Time now: 242
+
+(main.cc) Time now: 243
+
+(main.cc) Time now: 244
+
+(main.cc) Time now: 245
+
+(main.cc) Time now: 246
+
+(main.cc) Time now: 247
+
+(main.cc) Time now: 248
+
+(main.cc) Time now: 249
+
+(main.cc) Time now: 250
+
+(main.cc) Time now: 251
+
+(main.cc) Time now: 252
+
+(main.cc) Time now: 253
+
+(main.cc) Time now: 254
+
+(main.cc) Time now: 255
+
+(main.cc) Time now: 256
+
+(main.cc) Time now: 257
+
+(main.cc) Time now: 258
+
+(main.cc) Time now: 259
+
+(main.cc) Time now: 260
+
+(main.cc) Time now: 261
+
+(main.cc) Time now: 262
+
+(main.cc) Time now: 263
+
+(main.cc) Time now: 264
+
+(main.cc) Time now: 265
+
+(main.cc) Time now: 266
+
+(main.cc) Time now: 267
+
+(main.cc) Time now: 268
+
+(main.cc) Time now: 269
+
+(main.cc) Time now: 270
+
+(main.cc) Time now: 271
+
+(main.cc) Time now: 272
+
+(main.cc) Time now: 273
+
+(main.cc) Time now: 274
+
+(main.cc) Time now: 275
+
+(main.cc) Time now: 276
+
+(main.cc) Time now: 277
+
+(main.cc) Time now: 278
+siu:Stop: 17
+
+(main.cc) Time now: 279
+
+(main.cc) Time now: 280
+
+(main.cc) Time now: 281
+siu:Stop: 16
+
+(main.cc) Time now: 282
+siu:Stop: 10
+siu:Stop: 27
+
+(main.cc) Time now: 283
+
+(main.cc) Time now: 284
+siu:Stop: 13
+siu:Stop: 22
+
+(main.cc) Time now: 285
+siu:Stop: 26
+siu:Stop: 37
+
+(main.cc) Time now: 286
+siu:Stop: 3
+
+(main.cc) Time now: 287
+siu:Stop: 12
+
+(main.cc) Time now: 288
+siu:Stop: 11
+siu:Stop: 20
+
+(main.cc) Time now: 289
+siu:Stop: 33
+siu:Stop: 36
+
+(main.cc) Time now: 290
+siu:Stop: 47
+
+(main.cc) Time now: 291
+siu:Stop: 32
+
+(main.cc) Time now: 292
+siu:Stop: 30
+siu:Stop: 43
+siu:Stop: 46
+siu:Stop: 51
+
+(main.cc) Time now: 293
+
+(main.cc) Time now: 294
+siu:Stop: 21
+siu:Stop: 40
+siu:Stop: 42
+
+(main.cc) Time now: 295
+siu:Stop: 14
+siu:Stop: 23
+
+(main.cc) Time now: 296
+
+(main.cc) Time now: 297
+siu:Stop: 5
+
+(main.cc) Time now: 298
+siu:Stop: 24
+siu:Stop: 31
+siu:Stop: 50
+
+(main.cc) Time now: 299
+siu:Stop: 15
+
+(main.cc) Time now: 300
+siu:Stop: 34
+
+(main.cc) Time now: 301
+
+(main.cc) Time now: 302
+siu:Stop: 25
+siu:Stop: 41
+
+(main.cc) Time now: 303
+siu:Stop: 44
+
+(main.cc) Time now: 304
+
+(main.cc) Time now: 305
+
+(main.cc) Time now: 306
+siu:Stop: 35
+siu:Stop: 52
+
+(main.cc) Time now: 307
+
+(main.cc) Time now: 308
+siu:Stop: 45
+
+(main.cc) Time now: 309
+(main.cc)开始时间：2016-1-22 22:7:53
+(main.cc)结束时间：2016-1-22 22:8:10
+(main.cc)Report data outputs here
+(main.cc)运行方法是：RunCDSSim()
+(main.cc)accidentNum:212
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:1
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:53
+(main.cc)simulationTime:310
+(main.cc)runningTime:0m16s
+总花费时间为：16848.1ms
+总花费时间为：16.8481s
+总花费时间为：0分16秒
+arrivalR   accuracyR hitR      avgDelay  avgFwd    
+0.261614   0.510868  0.665641  0.475233  2.62264   
+
+avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0          556       0            1515172    606040     2121212    0.489132   
