@@ -1,0 +1,44 @@
+(main.cc)开始时间：2016-1-23 11:32:38
+(main.cc)结束时间：2016-1-23 12:3:3
+(main.cc)method:RunNrndnSim()
+(main.cc)accidentNum:2228
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:1
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:557
+(main.cc)simulationTime:909
+(main.cc)runningTime:30m25s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0521076  0.313092  0.484998  0.835845  12.5038   2.93312    22904     23161330     9055899    9331694    41548923   0.686908   
+(main.cc)开始时间：2016-1-23 11:32:42
+(main.cc)结束时间：2016-1-23 12:0:45
+(main.cc)method:RunDistSim()
+(main.cc)accidentNum:2228
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:1
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:557
+(main.cc)simulationTime:909
+(main.cc)runningTime:28m3s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.350516   0.0743405 0.770762  0.735363  93.3504   0          198463    0            9055899    218326234  227382133  0.92566    
+(main.cc)开始时间：2016-1-23 11:32:46
+(main.cc)结束时间：2016-1-23 11:55:46
+(main.cc)method:RunCDSSim()
+(main.cc)accidentNum:2228
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:1
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:557
+(main.cc)simulationTime:909
+(main.cc)runningTime:23m0s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.443243   0.0627765 0.809899  0.657956  20.066    0          44707     0            43248103   48634950   91883053   0.937223   
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0521076  0.313092  0.484998  0.835845  12.5038   2.93312    22904     23161330     9055899    9331694    41548923   0.686908   
+0.350516   0.0743405 0.770762  0.735363  93.3504   0          198463    0            9055899    218326234  227382133  0.92566    
+0.443243   0.0627765 0.809899  0.657956  20.066    0          44707     0            43248103   48634950   91883053   0.937223   
