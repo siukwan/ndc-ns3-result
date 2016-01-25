@@ -46,7 +46,7 @@
 
 ##NDN DIST CDS
 
-|arrR  | accR| hitR   |   avgDly | avgFw   | avgIntFw | SumFw  |  IntBSent| HelBSnt |DatBSnt| BSnt  |  dintR|
+|arrR  | accR| hitR   |   avgDly | avFw   | avIFw | SumFw  |  IntBSent| HelBSnt |DatBSnt| BSnt  |  dintR|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |0.1553|   0.6266|  0.4302|  0.5452|  4.669|   1.281|    2491  |    487150  |     734552  |   740710  |   1962412  |  0.3733   |
 |0.2747|   0.4917|  0.6692|  0.4751|  11.97|  0       |   2527   |   0        |    734552    | 2985510   | 3720062  |  0.5082   |
