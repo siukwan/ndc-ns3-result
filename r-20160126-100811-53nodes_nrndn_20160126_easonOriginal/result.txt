@@ -1,0 +1,5 @@
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.203215   0.619024  0.579437  0.521105  4.68707   1.12405    5718      886159       682084     986750     2554993    0.380976   
+0.276086   0.487278  0.669219  0.479485  11.9811   0          2540      0            682084     2988672    3670756    0.512722   
+0.261614   0.510868  0.665641  0.475202  2.62264   0          556       0            1410224    603816     2014040    0.489132   
