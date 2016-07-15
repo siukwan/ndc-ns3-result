@@ -1,0 +1,44 @@
+(main.cc)开始时间：2016-7-16 1:11:33
+(main.cc)结束时间：2016-7-16 1:11:59
+(main.cc)method:RunNrndnSim()
+(main.cc)accidentNum:53
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:53
+(main.cc)simulationTime:310
+(main.cc)runningTime:0m25s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0003559991         0.001451380         0         1          34        553082       787020     52346      1392448    0          
+(main.cc)开始时间：2016-7-16 1:11:37
+(main.cc)结束时间：2016-7-16 1:11:47
+(main.cc)method:RunDistSim() 
+(main.cc)accidentNum:53
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:53
+(main.cc)simulationTime:310
+(main.cc)runningTime:0m9s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.253509   0.478126  0.621857  0.498384  11.0377   0          585       0            787020     697972     1484992    0.521874   
+(main.cc)开始时间：2016-7-16 1:11:41
+(main.cc)结束时间：2016-7-16 1:11:52
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:53
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:53
+(main.cc)simulationTime:310
+(main.cc)runningTime:0m11s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.247805   0.490056  0.618427  0.495635  2.22642   0          118       0            1620132    129092     1749224    0.509944   
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0003559991         0.001451380         0         1          34        553082       787020     52346      1392448    0          
+0.253509   0.478126  0.621857  0.498384  11.0377   0          585       0            787020     697972     1484992    0.521874   
+0.247805   0.490056  0.618427  0.495635  2.22642   0          118       0            1620132    129092     1749224    0.509944   
