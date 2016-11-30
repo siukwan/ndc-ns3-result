@@ -1,0 +1,44 @@
+(main.cc)开始时间：2016-11-30 16:46:19
+(main.cc)结束时间：2016-11-30 17:25:5
+(main.cc)method:RunNrndnSim()
+(main.cc)accidentNum:400
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:400
+(main.cc)simulationTime:600
+(main.cc)runningTime:38m46s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.126729   0.525636  0.645544  1.11548   25.4516   1.0087     161296    43568609     6043456    191032754  240644819  0.474364   
+(main.cc)开始时间：2016-11-30 16:46:23
+(main.cc)结束时间：2016-11-30 16:59:41
+(main.cc)method:RunDistSim() 
+(main.cc)accidentNum:400
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:400
+(main.cc)simulationTime:600
+(main.cc)runningTime:13m17s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.120183   0.471269  0.617861  0.0823732 21.0301   0          145213    0            6043456    168937182  174980638  0.528731   
+(main.cc)开始时间：2016-11-30 16:46:27
+(main.cc)结束时间：2016-11-30 16:53:12
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:400
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:400
+(main.cc)simulationTime:600
+(main.cc)runningTime:6m44s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0748052  0.528024  0.55338   0.0507215 2.16731   0          18446     0            16008024   20253708   36261732   0.471976   
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.126729   0.525636  0.645544  1.11548   25.4516   1.0087     161296    43568609     6043456    191032754  240644819  0.474364   
+0.120183   0.471269  0.617861  0.0823732 21.0301   0          145213    0            6043456    168937182  174980638  0.528731   
+0.0748052  0.528024  0.55338   0.0507215 2.16731   0          18446     0            16008024   20253708   36261732   0.471976   
