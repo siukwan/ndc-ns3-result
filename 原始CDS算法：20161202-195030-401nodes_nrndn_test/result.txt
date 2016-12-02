@@ -1,0 +1,15 @@
+(main.cc)开始时间：2016-12-2 19:50:42
+(main.cc)结束时间：2016-12-2 20:0:30
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:401
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:401
+(main.cc)simulationTime:600
+(main.cc)runningTime:9m48s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.126085   0.45426   0.529639  0.124743  7.86829   0          52631     0            27123924   57786744   84910668   0.54574    
+//NDN DIST CDS
+0.126085   0.45426   0.529639  0.124743  7.86829   0          52631     0            27123924   57786744   84910668   0.54574    
