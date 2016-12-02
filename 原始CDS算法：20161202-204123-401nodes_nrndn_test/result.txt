@@ -1,0 +1,29 @@
+(main.cc)开始时间：2016-12-2 20:2:32
+(main.cc)结束时间：2016-12-2 20:20:51
+(main.cc)method:RunDistSim() 
+(main.cc)accidentNum:401
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:401
+(main.cc)simulationTime:600
+(main.cc)runningTime:18m18s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.109121   0.430496  0.547364  0.137655  26.6751   0          173415    0            10129836   197744356  207874192  0.569504   
+(main.cc)开始时间：2016-12-2 20:41:34
+(main.cc)结束时间：2016-12-2 20:51:18
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:401
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:401
+(main.cc)simulationTime:600
+(main.cc)runningTime:9m43s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.126085   0.45426   0.529639  0.124743  7.86829   0          52631     0            27123924   57786744   84910668   0.54574    
+//原始CDS算法：
+0.109121   0.430496  0.547364  0.137655  26.6751   0          173415    0            10129836   197744356  207874192  0.569504   
+0.126085   0.45426   0.529639  0.124743  7.86829   0          52631     0            27123924   57786744   84910668   0.54574    
