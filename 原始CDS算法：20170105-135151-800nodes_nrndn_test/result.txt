@@ -1,0 +1,15 @@
+(main.cc)开始时间：2017-1-5 13:52:5
+(main.cc)结束时间：2017-1-5 15:1:9
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:69m4s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.287894   0.219873  0.79405   0.459465  28.9931   0          363806    0            50700257   399458988  450159245  0.780127   
+//原始CDS算法：
+0.287894   0.219873  0.79405   0.459465  28.9931   0          363806    0            50700257   399458988  450159245  0.780127   
