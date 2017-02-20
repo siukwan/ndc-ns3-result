@@ -1,0 +1,29 @@
+(main.cc)开始时间：2017-2-20 13:19:25
+(main.cc)结束时间：2017-2-20 13:47:13
+(main.cc)method:RunDistSim() 
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:10
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:27m47s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.183261   0.192593  0.738463  0.164449  59.0515   0          5728      0            15351055   6398046    21749101   0.807407   
+(main.cc)开始时间：2017-2-20 13:19:30
+(main.cc)结束时间：2017-2-20 13:52:58
+(main.cc)method:RunCDSSim()  
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.1
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:33m28s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.0933345  0.251789  0.629163  0.10951   5.67677   0          562       0            52131427   617076     52748503   0.748211   
+//NDN DIST CDS
+0.183261   0.192593  0.738463  0.164449  59.0515   0          5728      0            15351055   6398046    21749101   0.807407   
+0.0933345  0.251789  0.629163  0.10951   5.67677   0          562       0            52131427   617076     52748503   0.748211   
