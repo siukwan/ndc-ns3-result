@@ -1,0 +1,35 @@
+input_zhujiang2(main.cc)开始时间：2017-2-22 18:20:39
+(main.cc)结束时间：2017-2-22 18:57:35
+(main.cc)method:RunDistSim() 
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:15
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:500
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:500
+(main.cc)simulationTime:690
+(main.cc)runningTime:36m55s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.153225   0.325748  0.29481   5.14774   32.7515   0          461992    0            5918111    537969828  543887939  0.674252   
+(main.cc)开始时间：2017-2-22 18:20:44
+(main.cc)结束时间：2017-2-22 18:46:41
+(main.cc)method:RunCDSSim()  
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:15
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:500
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:500
+(main.cc)simulationTime:690
+(main.cc)runningTime:25m56s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.204394   0.206142  0.488433  2.46074   7.82934   0          211815    0            20106951   232965103  253072054  0.793858   
+//NDN DIST CDS
+0.153225   0.325748  0.29481   5.14774   32.7515   0          461992    0            5918111    537969828  543887939  0.674252   
+0.204394   0.206142  0.488433  2.46074   7.82934   0          211815    0            20106951   232965103  253072054  0.793858   
