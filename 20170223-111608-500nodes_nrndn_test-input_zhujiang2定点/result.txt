@@ -1,0 +1,54 @@
+input_zhujiang2
+(main.cc)开始时间：2017-2-23 11:16:20
+(main.cc)结束时间：2017-2-23 11:34:9
+(main.cc)method:RunNrndnSim()
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:15
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:500
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:500
+(main.cc)simulationTime:1106
+(main.cc)runningTime:17m48s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.426629   0.0714466 0.816269  2.81244   123       1.0303     7813      9110150      6144903    7105749    22360802   0.928553   
+(main.cc)开始时间：2017-2-23 11:16:24
+(main.cc)结束时间：2017-2-23 11:25:36
+(main.cc)method:RunDistSim() 
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:15
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:500
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:500
+(main.cc)simulationTime:1106
+(main.cc)runningTime:9m12s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.519259   0.0390236 0.825729  0.116107  102.865   0          7612      0            6146736    8409804    14556540   0.960976   
+(main.cc)开始时间：2017-2-23 11:16:28
+(main.cc)结束时间：2017-2-23 11:28:43
+(main.cc)method:RunCDSSim()  
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:15
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:500
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:500
+(main.cc)simulationTime:1106
+(main.cc)runningTime:12m14s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.610494   0.0484988 0.843188  0.258129  36.1351   0          2674      0            24718240   2925770    27644010   0.951501   
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.426629   0.0714466 0.816269  2.81244   123       1.0303     7813      9110150      6144903    7105749    22360802   0.928553   
+0.519259   0.0390236 0.825729  0.116107  102.865   0          7612      0            6146736    8409804    14556540   0.960976   
+0.610494   0.0484988 0.843188  0.258129  36.1351   0          2674      0            24718240   2925770    27644010   0.951501   
