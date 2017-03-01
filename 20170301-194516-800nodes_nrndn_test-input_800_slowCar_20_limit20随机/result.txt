@@ -1,0 +1,57 @@
+input_800_slowCar_20_limit20
+(main.cc)开始时间：2017-3-1 19:45:34
+(main.cc)结束时间：2017-3-1 20:37:8
+(main.cc)method:RunNrndnSim()
+(main.cc)seed:54321 节点:54 72 75 83 224 226 231 247 298 354 386 406 444 473 475 494 541 546 624 677 
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:20
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:51m34s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.333639   0.139822  0.836194  0.786843  75.493    1.00767    5360      24930707     11170480   40117824   76219011   0.860178   
+(main.cc)开始时间：2017-3-1 19:45:39
+(main.cc)结束时间：2017-3-1 20:11:54
+(main.cc)method:RunDistSim() 
+(main.cc)seed:54321 节点:54 72 75 83 224 226 231 247 298 354 386 406 444 473 475 494 541 546 624 677 
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:20
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:26m15s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.364973   0.0940388 0.76863   0.125705  112.462   0          8772      0            11207600   58301364   69508964   0.905961   
+(main.cc)开始时间：2017-3-1 19:45:43
+(main.cc)结束时间：2017-3-1 20:17:18
+(main.cc)method:RunCDSSim()  
+(main.cc)seed:54321 节点:54 72 75 83 224 226 231 247 298 354 386 406 444 473 475 494 541 546 624 677 
+(main.cc)certain_count定点数量:20
+(main.cc)certain_interval定点间隔:20
+(main.cc)random_accident:1随机
+(main.cc)accidentNum:800
+(main.cc)transRange:300
+(main.cc)noFwStop:1
+(main.cc)TTLMax:10
+(main.cc)interestFreq:0.005
+(main.cc)nodeSum:800
+(main.cc)simulationTime:600
+(main.cc)runningTime:31m35s
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.564955   0.114971  0.811614  0.308902  53.4103   0          4166      0            46482300   27444468   73926768   0.885029   
+//NDN DIST CDS
+arrivalR   accuracyR hitR      avgDelay  avgFwd    avgIntFwd  SumFwd    IntByteSent  HelByteSnt DatByteSnt ByteSnt    disinterestR
+0.333639   0.139822  0.836194  0.786843  75.493    1.00767    5360      24930707     11170480   40117824   76219011   0.860178   
+0.364973   0.0940388 0.76863   0.125705  112.462   0          8772      0            11207600   58301364   69508964   0.905961   
+0.564955   0.114971  0.811614  0.308902  53.4103   0          4166      0            46482300   27444468   73926768   0.885029   
